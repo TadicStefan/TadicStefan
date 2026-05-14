@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Stefan 👋
 
-<!--
-**TadicStefan/TadicStefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI automation & software developer from Slovenia.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- C++
+- React / Next.js
+- FastAPI
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- AI automation
+- Internal business tools
+- Workflow optimization
+
+## Projects
+- AI Invoice Processor
+- Business Dashboard
+- PDF Automation Tool
+
+## Contact
+- LinkedIn
+- Portfolio
