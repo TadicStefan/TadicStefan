@@ -15,10 +15,8 @@ AI automation & software developer from Slovenia.
 - Workflow optimization
 
 ## Projects
-- AI Invoice Processor
-- Business Dashboard
-- PDF Automation Tool
+
 
 ## Contact
-- LinkedIn
+- LinkedIn - https://www.linkedin.com/in/stefan-tadic-a9003940a/?skipRedirect=true
 - Portfolio
